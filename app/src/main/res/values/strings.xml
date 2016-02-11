@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalculateRectangle</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="recAreaCal">Rectangle Area Calculator</string>
+    <string name="lengthInCM">Length in CM</string>
+    <string name="widthInCM">Width in CM</string>
+    <string name="calculateArea">Calculate Area</string>
+    <string name="areaInCM">Area in CM²</string>
+    <string name="clear">Clear Values</string>
+</resources>
